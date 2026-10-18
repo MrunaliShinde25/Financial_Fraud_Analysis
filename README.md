@@ -1,4 +1,4 @@
-# 🏦 Financial Fraud Analysis Dashboard
+# 🏦 Financial Fraud Analysis
 
 > **Excel-Based Data Analytics Project | 10,500 Transactions Across India (Sep 2025 – Aug 2026)**
 
